@@ -1,5 +1,56 @@
-# PrivacyPolicy_FoglioGara
-Privacy Policy
+# Informativa sulla privacy di Foglio Gara
+
+**Informativa sulla privacy**
+
+La presente informativa sulla privacy si applica all'app Foglio Gara per dispositivi mobili e a tutti i servizi correlati gestiti da The Ross Soft (collettivamente, l'"Applicazione"). The Ross Soft è di seguito denominata "Fornitore del servizio".
+
+**Quali informazioni raccoglie l'Applicazione e come vengono utilizzate?**
+
+L'Applicazione non raccoglie, registra né memorizza alcuna informazione personale durante il download e l'utilizzo. Non è richiesta alcuna registrazione. Se l'Applicazione viene utilizzata con una connessione Internet attiva, vengono trasmessi dati tecnici di protocollo (come l'indirizzo IP temporaneo) per facilitare la connettività di rete; tuttavia, tali dati non vengono conservati né utilizzati per attività di tracciamento.
+
+**L'Applicazione raccoglie informazioni precise sulla posizione del dispositivo in tempo reale?**
+
+Questa Applicazione non raccoglie informazioni precise sulla posizione del dispositivo mobile dell'utente.
+
+**Terze parti possono vedere e/o accedere alle informazioni ottenute dall'Applicazione?**
+
+Poiché l'Applicazione non raccoglie alcuna informazione, nessun dato viene condiviso con terze parti.
+
+**Quali sono i miei diritti di rinuncia (opt-out)?**
+
+Poiché l'Applicazione non raccoglie informazioni personali durante il normale utilizzo, la disinstallazione comporta semplicemente la rimozione dell'Applicazione dal dispositivo.
+
+Se l'utente contatta direttamente il Fornitore del servizio o fornisce volontariamente informazioni tramite altri canali, può richiederne la cancellazione scrivendo all'indirizzo therosssoft@gmail.com.
+
+**Minori**
+
+L'Applicazione non è destinata a minori di età inferiore a 16 anni (o all'età superiore eventualmente prevista dalla normativa vigente). Il Fornitore del servizio non richiede consapevolmente dati ai minori né rivolge loro attività di marketing. Poiché l'Applicazione non raccoglie informazioni personali durante il normale utilizzo, i dati dei minori non sono a rischio per il solo fatto di utilizzare l'Applicazione. Se un minore di 16 anni fornisce volontariamente informazioni personali tramite altri canali, il consenso deve essere prestato da un genitore o tutore, ove consentito dalla legge.
+
+**Sicurezza**
+
+Poiché l'Applicazione non raccoglie dati personali, il rischio di esposizione di tali dati è minimo. Tuttavia, nessun sistema di sicurezza è inviolabile. Il Fornitore del servizio adotta misure di sicurezza ragionevoli per proteggere i sistemi e gli eventuali dati in proprio possesso.
+
+**Notifica di violazione dei dati**
+
+Poiché l'Applicazione non raccoglie dati personali durante il normale utilizzo, il rischio di una violazione che coinvolga i dati personali dell'utente è minimo. In caso di violazione riguardante i dati forniti volontariamente, il Fornitore del Servizio provvederà a informarti come previsto dalla normativa vigente.
+
+**Modifiche**
+
+Il Fornitore del Servizio può aggiornare la presente Informativa sulla privacy di tanto in tanto. Il Fornitore del Servizio comunicherà eventuali modifiche sostanziali pubblicando l'Informativa sulla privacy aggiornata e indicando la data di entrata in vigore. Ove richiesto dalla legge, il Fornitore del Servizio richiederà il tuo consenso alle modifiche sostanziali prima che queste diventino effettive.
+
+Le versioni precedenti della presente Informativa sulla privacy saranno conservate e rese disponibili su richiesta contattando il Fornitore del Servizio all'indirizzo therosssoft@gmail.com.
+
+La presente informativa sulla privacy è in vigore dal 11/09/2026.
+
+**Il tuo consenso**
+
+Se fornisci volontariamente informazioni al Fornitore del Servizio e il trattamento si basa sul consenso, puoi revocare tale consenso in qualsiasi momento, senza pregiudicare la liceità del trattamento effettuato prima della revoca.
+
+**Contattaci**
+
+Per eventuali domande sulla privacy durante l'utilizzo dell'Applicazione o sulle relative pratiche, ti invitiamo a contattare il Fornitore del Servizio via e-mail all'indirizzo therosssoft@gmail.com.
+
+* * *
 
 **Privacy Policy**
 
